@@ -13,15 +13,11 @@ A continuación se presentan algunas capturas de pantalla de la herramienta en a
 
 ## Instalación
 
- **Instala las dependencias sin necesidad de virtualizar**:
+ **Instala las dependencias sin necesidad de virtualizar antes de ejecutar la herramienta**:
  
    ```bash
 
    sudo apt update && sudo apt install python3-tk python3-pil python3-pil.imagetk python3-requests python3-bs4
-
- **Ejecución**:
-
-   ```bash
    git clone https://github.com/ccyl13/smishing-detector.git
    cd smishing-detector
    python3 smishing_detector.py
