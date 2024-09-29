@@ -13,7 +13,7 @@ A continuación se presentan algunas capturas de pantalla de la herramienta en a
 
 ## Instalación
 
- **Instala las dependencias sin necesidad de virtualizar antes de ejecutar la herramienta**:
+ **Instala las dependencias sin necesidad de virtualizar antes de ejecutar la herramienta y luego clona el repositorio**:
  
    ```bash
 
